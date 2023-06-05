@@ -1,0 +1,95 @@
+.modal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #2d2d2d;
+
+}
+.active_button{
+    background-color:rgba(16, 167, 96, 0.08); /* Green */
+  border: none;
+  color: #10A760;;
+  padding: 9px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  cursor: pointer;
+  border-radius: 25px;
+
+  padding-top: 5px;
+  margin-left: 8px;
+  margin-top: 7px;
+  font-weight: 450;
+}
+.inactive_button{
+    background-color: rgba(220, 57, 18, 0.08); /* Green */
+    border: none;
+    color: #DC3912;
+    padding: 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 450;
+    cursor: pointer;
+    border-radius: 25px;
+     
+    padding-top: 5px;
+    margin-left: 8px;
+    margin-top: 7px;
+
+    
+}
+
+.web1ssl{
+    display: flex;
+}
+.Website_Status{
+    margin-right: 20px;
+}
+.Website_Status{
+    font-family: 'Gordita';
+font-style: normal;
+font-weight: 600;
+
+
+
+color: rgba(44, 39, 36, 0.75);
+
+}
+.SSl_Status{
+
+font-style: normal;
+font-weight: 600;
+color: rgba(44, 39, 36, 0.75);
+}
+.last_checked{
+    font-family: 'Gordita';
+    font-style: normal;
+    font-weight: 600;
+    color: rgba(44, 39, 36, 0.75);
+    margin-top: 20px;
+    text-align: left;
+
+}
+
+.website_name{
+     color: #1A73E8;
+    
+}
+.last-check_data{
+
+font-style: normal;
+font-weight: 400;
+color: rgba(44, 39, 36, 0.75);
+text-align: left;
+
+}
+.modal-inner-top{
+    display: flex;
+    gap: 5px;
+}
+.modal-container:hover{
+    background-color:rgb(166, 188, 195);
+}

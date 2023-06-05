@@ -1,0 +1,23 @@
+.History-main{
+    display: flex;
+    gap: 25px;
+    flex-direction: column;
+    
+}
+.History-top-section{
+    font-weight: 500px;
+    text-align: left;
+    margin-top: 24px;
+}
+.ssl-main {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+.ssl-top-section{
+    font-weight: 500px;
+    text-align: left;
+    margin-top: 24px;
+
+    
+}

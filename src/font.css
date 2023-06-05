@@ -1,0 +1,8 @@
+@font-face {
+    font-family: grapenuts;
+    src: url(../src/Assests/font/Gordita\ Black.woff);
+  }
+
+  h1{
+    font-family: grapenuts;
+  }

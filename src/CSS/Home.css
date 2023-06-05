@@ -1,0 +1,39 @@
+.home {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 0px;
+  gap: 24px;
+  height: 600px;
+
+}
+h1 {
+
+  font-style: normal;
+  font-weight: 1000;
+  font-size: 48px;
+  line-height: 64px;
+  text-align: center;
+  align-items: center;
+}
+.para {
+  color: rgba(44, 39, 36, 0.75);
+  width: 50vw;
+  font-weight: 400;
+}
+
+.opacity {
+  position: absolute;
+  /* width: 100vw; */
+  width: 100%;
+  height: 50vh;
+  top: 590px;
+  border:1px solid red;
+
+  background: #1a73e8;
+  opacity: 0.16;
+  filter: blur(100px);
+  transform: rotate(-359.01deg);
+  z-index: -1;
+}

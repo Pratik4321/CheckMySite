@@ -1,0 +1,72 @@
+
+.form{
+       display: flex;
+    flex-direction: column;
+    padding: 50px;
+    gap: 24px;    
+    background: #FAFAFA;
+
+ 
+}
+
+.container-form{
+    display: flex;
+    flex-direction: column;
+      margin: auto;
+  width: 70%;
+  text-align: left;
+  gap: 10px;
+    margin-bottom: 50px;
+  padding: 10px;
+
+}
+
+.btn{
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+}
+.input_btn{
+    width: 608px;
+    height: 44px;
+    background: #FFFFFF;
+   border: 1px solid rgba(127, 135, 158, 0.5);
+   border-radius: 4px; 
+}
+.radio_btn{
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+margin-left: 175px;
+align-items: center;
+color: #7F879E;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+.label{
+font-style: normal;
+font-weight: 900    ;
+font-size: 16px;
+line-height: 18px;
+text-align: right;
+color: #2C2724;
+width: 200px;
+
+    text-align: right;
+    padding-right: 30px;
+}
+
+.label-container{
+    display: flex;
+    flex-direction: row;
+   align-items: center;
+}
+
+input{
+    font-weight: 300;
+    padding: 10px;
+}
+.start-button{
+    margin-top: 50px;
+}
